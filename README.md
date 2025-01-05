@@ -27,3 +27,4 @@ Fix typo in README
 Update dependencies
 Rewrite function Y
 Add test cases
+Rewrite function Y
