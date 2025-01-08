@@ -23,3 +23,4 @@ Change theme color
 Update configuration
 Update API endpoint
 Add documentation
+Fix typo in README
