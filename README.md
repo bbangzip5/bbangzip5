@@ -18,3 +18,4 @@ Update API endpoint
 Update API endpoint
 Rewrite function Y
 Improve error handling
+Refactor core logic
