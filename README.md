@@ -21,3 +21,4 @@ Improve error handling
 Refactor core logic
 Change theme color
 Update configuration
+Update API endpoint
