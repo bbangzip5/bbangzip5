@@ -25,3 +25,4 @@ Update API endpoint
 Add documentation
 Fix typo in README
 Update dependencies
+Rewrite function Y
