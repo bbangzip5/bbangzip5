@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Update API endpoint
 Update API endpoint
 Rewrite function Y
+Improve error handling
