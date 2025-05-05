@@ -28,3 +28,4 @@ Update dependencies
 Rewrite function Y
 Add test cases
 Rewrite function Y
+Improve logging
